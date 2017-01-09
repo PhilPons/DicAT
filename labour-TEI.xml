@@ -1,4 +1,5 @@
-<TEI  xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -9556,15 +9557,87 @@ mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂轅�
             <orth>cross-piece</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">取っ手　/　握り　</orth>
-            <orth type="kana">とって　 /　にぎり　</orth>
-            <orth type="trans">totte&amp;nbsp; /  nigiri</orth>
+            <orth type="kanji">&lt;style type="text/css"&gt;
+&lt;!--
+ /* Font Definitions */
+@font-face
+	{font-family:"ＭＳ 明朝";
+	mso-font-charset:78;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"ＭＳ 明朝";}
+span.style40
+	{mso-style-name:style40;
+	mso-style-unhide:no;
+	mso-style-parent:"";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-fareast-theme-font:minor-fareast;
+	mso-fareast-language:JA;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+--&gt;
+&lt;/style&gt;     &lt;span class="style40"&gt;&lt;span style="font-size:10.0pt;
+font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-bidi-font-family:&amp;quot;ＭＳ 明朝&amp;quot;;
+mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂のダブル 犂柄 を繋ぐ木製や鉄製の横木&lt;/span&gt;&lt;/span&gt;</orth>
+            <orth type="kana">&lt;style type="text/css"&gt;
+&lt;!--
+ /* Font Definitions */
+@font-face
+	{font-family:"ＭＳ 明朝";
+	mso-font-charset:78;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Ca</orth>
+            <orth type="trans">&lt;style type="text/css"&gt;
+&lt;!--
+ /* Font Definitions */
+@font-face
+	{font-family:"ＭＳ 明朝";
+	mso-font-charset:78;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Ca</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">犂衡&amp;nbsp;/ 橫檔</orth>
             <orth type="simp">犁衡&amp;nbsp;/ 横档</orth>
             <orth type="pinyin">liheng&amp;nbsp;/ hengdang</orth>
           </form>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base617" sortKey="61700">
           <form xml:lang="fr">
@@ -11247,9 +11320,9 @@ mso-bidi-language:AR-SA"&gt;犂轅&lt;/span&gt;&lt;/span&gt; 先着）滑板</or
             <orth>heel (of plough, plow sole)</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">[訳]　犂床踵&amp;nbsp; （犂床の最後部）</orth>
-            <orth type="kana">（やく）りしょうしょう（りしょうのさいこうぼ）</orth>
-            <orth type="trans">(trad) rishoushou (rishou no saikou-bu)</orth>
+            <orth type="kanji">犂床の最後部に犂柄をつけ込んだ角度のかたち（犂床踵）</orth>
+            <orth type="kana">りしょうのさいごのぶぶんにりへいをつけこんだかくどのかたち（りしょうかかと）</orth>
+            <orth type="trans">rishou no saigo ni rihei o tsukekonda kakudo no katachi (rishou kakato)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">犂側板</orth>
@@ -12139,9 +12212,9 @@ mso-bidi-language:AR-SA"&gt;柄&lt;/span&gt;&lt;/span&gt;    を繋ぐ木製や�
             <orth type="trans">idoushiki sukisaki</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">犁鏵</orth>
-            <orth type="simp">犁铧</orth>
-            <orth type="pinyin">lihua</orth>
+            <orth type="tradi">三角犁鏵</orth>
+            <orth type="simp">三角犁铧</orth>
+            <orth type="pinyin">sanjiao lihua</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -12207,7 +12280,7 @@ mso-bidi-language:AR-SA"&gt;柄&lt;/span&gt;&lt;/span&gt;    を繋ぐ木製や�
             <orth>coutri&amp;egrave;re</orth>
           </form>
           <form xml:lang="eng">
-            <orth>component of plough that holds coulter to beam</orth>
+            <orth>component of plough that holds coulter to beam, or coulter adjuster</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">（西洋式蓄力式犂の）犂刀を前後に動かす犂轅に付けてある道具</orth>
@@ -12215,9 +12288,9 @@ mso-bidi-language:AR-SA"&gt;柄&lt;/span&gt;&lt;/span&gt;    を繋ぐ木製や�
             <orth type="trans">(seiyoushiki chikuryoku shiki suki no) rien to ritou o tsunageru dougu</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">（西式大犁上安裝在犁轅上的）犁刀</orth>
-            <orth type="simp">（西式大犁上安装在犁辕上的）犁刀</orth>
-            <orth type="pinyin">（xishi dali shang anzhuang zai liyuan shang de）lidao</orth>
+            <orth type="tradi">（西式大犁上安裝在犁轅上）犁刀位置調節器</orth>
+            <orth type="simp">（西式大犁上安装在犁辕上的）犁刀位置调节器</orth>
+            <orth type="pinyin">（xishi dali shang anzhuang zai liyuan shang de）lidao weizhi tiaojie qi</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -12380,9 +12453,9 @@ mso-bidi-font-family:NSimSun;color:green;mso-ansi-language:FR;mso-fareast-langua
 FR;mso-bidi-language:AR-SA"&gt;撥&lt;/span&gt;&lt;span style="font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;mso-bidi-font-family:
 &amp;quot;Kaiti SC Black&amp;quot;;color:green;mso-ansi-language:FR;mso-fareast-language:FR;
-mso-bidi-language:AR-SA"&gt;土板&lt;/span&gt;&lt;/span&gt; </orth>
-            <orth type="kana">まぐわのはつどばん、ヴィがたまぐわ？</orth>
-            <orth type="trans">maguwa no hatsudoban, V-gata maguwa?</orth>
+mso-bidi-language:AR-SA"&gt;土板&lt;/span&gt;&lt;/span&gt;</orth>
+            <orth type="kana">まぐわのりしょうのうえにつけくわえるゔぃがたはつどばん</orth>
+            <orth type="trans">maguwa no rishou no ue ni tsukekuwaeru W gata hatsudoban</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">（西式大犁置於犁托上、用來分土的）V型犁椽</orth>
@@ -12643,12 +12716,12 @@ mso-bidi-language:AR-SA"&gt;土板&lt;/span&gt;&lt;/span&gt; </orth>
             <orth>hivernage</orth>
           </form>
           <form xml:lang="eng">
-            <orth>1) ploughing in vineyard or fallow before winter; 2) wintering (winter pasture of flocks, herds); 3) winter stabling</orth>
+            <orth>ploughing in vineyard or fallow before winter</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">１冬季耕起、２冬に家畜を放牧する,３冬の在厩や畜舎内家畜</orth>
-            <orth type="kana">１とうきこうき、２ふゆにかちくをほうぼくする、３ふゆのざいきゅうやちくしゃないかちく</orth>
-            <orth type="trans">1.touki kouki, 2.fuyu ni kachiku o houboku suru, 3.fuyu no zai umaya ya chikusha-nai kachiku</orth>
+            <orth type="kanji">冬季耕起</orth>
+            <orth type="kana">とうきこうき</orth>
+            <orth type="trans">touki kouki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">冬耕</orth>
@@ -12804,11 +12877,7 @@ span.style40
 div.WordSection1
 	{page:WordSection1;}
 --&gt;
-&lt;/style&gt;     &lt;span class="style40"&gt;&lt;span style="font-size:12.0pt;
-font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:NSimSun;mso-bidi-font-family:NSimSun;
-mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂&lt;/span&gt;&lt;span style="font-size:12.0pt;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;
-mso-bidi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;mso-ansi-language:FR;mso-fareast-language:
-FR;mso-bidi-language:AR-SA"&gt;床&lt;/span&gt;&lt;/span&gt;    と犂轅を繋ぐ木器（             &lt;style type="text/css"&gt;
+&lt;/style&gt;     &lt;span class="style40"&gt;&lt;span style="font-size:12.0pt;&amp;#10;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:NSimSun;mso-bidi-font-family:NSimSun;&amp;#10;mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂&lt;/span&gt;&lt;span style="font-size:12.0pt;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;&amp;#10;mso-bidi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;mso-ansi-language:FR;mso-fareast-language:&amp;#10;FR;mso-bidi-language:AR-SA"&gt;床&lt;/span&gt;&lt;/span&gt;    と犂轅を繋ぐ木器（             &lt;style type="text/css"&gt;
 &lt;!--
  /* Font Definitions */
 @font-face
@@ -12871,18 +12940,14 @@ span.style40
 div.WordSection1
 	{page:WordSection1;}
 --&gt;
-&lt;/style&gt;     &lt;span class="style40"&gt;&lt;span style="font-size:12.0pt;
-font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:NSimSun;mso-bidi-font-family:NSimSun;
-mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂&lt;/span&gt;&lt;span style="font-size:12.0pt;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;
-mso-bidi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;mso-ansi-language:FR;mso-fareast-language:
-FR;mso-bidi-language:AR-SA"&gt;柱&lt;/span&gt;&lt;/span&gt;に類似）</orth>
+&lt;/style&gt;     &lt;span class="style40"&gt;&lt;span style="font-size:12.0pt;&amp;#10;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:NSimSun;mso-bidi-font-family:NSimSun;&amp;#10;mso-ansi-language:FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;犂&lt;/span&gt;&lt;span style="font-size:12.0pt;font-family:&amp;quot;ＭＳ 明朝&amp;quot;;mso-hansi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;&amp;#10;mso-bidi-font-family:&amp;quot;Kaiti SC Black&amp;quot;;mso-ansi-language:FR;mso-fareast-language:&amp;#10;FR;mso-bidi-language:AR-SA"&gt;柱&lt;/span&gt;&lt;/span&gt;に類似）</orth>
             <orth type="kana">すきのりへいとりえんをつなぐなわをとめるためのうちこみもくせいくぎ</orth>
             <orth type="trans">suki no rihei to rien o tsunagu nawa o tomeru tame no uchikomi mokusei kugi</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">連接犁托和犁轅的小木撐</orth>
-            <orth type="simp">连接犁托和犁辕的小木撑</orth>
-            <orth type="pinyin">lianjie lituo he liyuan de xiao mucheng</orth>
+            <orth type="tradi">犁柱</orth>
+            <orth type="simp">犁柱</orth>
+            <orth type="pinyin">lizhu</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -12937,9 +13002,9 @@ FR;mso-bidi-language:AR-SA"&gt;柱&lt;/span&gt;&lt;/span&gt;に類似）</orth>
             <orth type="trans">heichi, tsuchi heisei, tsuchi heisei suru hito</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">整地，平地，平整土地，平整土地的人</orth>
-            <orth type="simp">整地，平地，平整土地，平整土地的人</orth>
-            <orth type="pinyin">zhengdi, pingdi, pingzheng tudi, pingzheng tudi de ren</orth>
+            <orth type="tradi">（用板式耙进行的）平地式覆种</orth>
+            <orth type="simp">（用板式耙进行的）平地式覆种</orth>
+            <orth type="pinyin">(yong ban shi ba jinxing de) ping di shi fuzhong</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -15517,14 +15582,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>planter</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">1.[訳]　植える人 2. プランテーション経営者</orth>
-            <orth type="kana">1. [訳]　うえるひと 2. プランテーション経営者</orth>
-            <orth type="trans">1. [訳] ueru-hito 2. puranteeshon-keieisha</orth>
+            <orth type="kanji">植える人&amp;nbsp;</orth>
+            <orth type="kana">うえるひと&amp;nbsp;</orth>
+            <orth type="trans">ueru-hito&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">1. 種植者 2. 種植園主</orth>
-            <orth type="simp">1, 种植者 2. 种植园主</orth>
-            <orth type="pinyin">1. zhongzhizhe 2. zhongzhiyuan zhu</orth>
+            <orth type="tradi">&amp;nbsp;種植者</orth>
+            <orth type="simp">&amp;nbsp;种植者</orth>
+            <orth type="pinyin">zhongzhizhe</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -15650,16 +15715,16 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>TRAD roller marker for checkerboard transplanting</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">&lt;u&gt;回転式型枠&lt;/u&gt; (正条植え用)</orth>
+            <orth type="kanji">回転式型枠 (正条植え用; [方言] 畦引き.&amp;nbsp;平行線を引き、さらに平行線を直角に引き、その交差点を種籾を蒔く場所と定めるよう、田面に印をつけるための道具)&amp;nbsp;</orth>
             <orth type="kana">かいてんしきかたわく (せいじょううえよう)</orth>
-            <orth type="trans">kaiten-shiki-katawaku (sei-jyô-ue-yô)</orth>
+            <orth type="trans">kaiten-shiki-katawaku (sei-jy&amp;ocirc;-ue-y&amp;ocirc;)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">(用來進行直線插秧的)滾動直線架</orth>
             <orth type="simp">(用来进行直线插秧的)滚动直线架</orth>
             <orth type="pinyin">（yonglai jinxing zhixian chayang de）gundong zhixian jia</orth>
           </form>
-          <note type="commentaires">[方言] 畦引き　(平行線を引き、さらに平行線を直角に引き、その交差点を種籾を蒔く場所と定めるよう、田面に印をつけるための道具) -</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base938" sortKey="93800">
           <form xml:lang="fr">
@@ -16155,10 +16220,10 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base1025" sortKey="93803">
           <form xml:lang="fr">
-            <orth>prégermination　(action de faire germer la semence avant le semis) *</orth>
+            <orth>pr&amp;eacute;germination　(action de faire germer la semence avant le semis; en cas du semis sur boue ou du semis en eau)</orth>
           </form>
           <form xml:lang="eng">
-            <orth>pregermination * (allowing seed to sprout before sowing)</orth>
+            <orth>pregermination (allowing seed to sprout before sowing)</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">[訳] 1. 播種前に発芽させること　　2. 播種前の種子準備作業全般　(水苗床または本田に播種する前の種籾準備作業--浸種・水切り・発芽等--全般をさす)</orth>
@@ -16170,7 +16235,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth type="simp">（泥田或水田播种前的）催芽</orth>
             <orth type="pinyin">（nitian huo shuitian bozhong qian de）cuiya</orth>
           </form>
-          <note type="commentaires">* en cas du semis sur boue ou du semis en eau</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base1026" sortKey="93802">
           <form xml:lang="fr">
@@ -16332,14 +16397,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>long-handled tongs used to remove thistles</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">薊を刈る</orth>
-            <orth type="kana">あざみをかる</orth>
-            <orth type="trans">azami o karu </orth>
+            <orth type="kanji">薊をとるやっとこ式道具</orth>
+            <orth type="kana">あざみをかるやっとこしきどうぐ</orth>
+            <orth type="trans">azami o toru yattoko shiki dougu</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">（用來剪掉薊、起絨草等刺莖菊科害草的刺果的）長柄鉗</orth>
-            <orth type="simp">（用来剪掉蓟、起绒草等刺茎菊科害草的刺果的）长柄剪刺果钳</orth>
-            <orth type="pinyin">(yonglai jian diao ji,qirongcao deng cijing juke haicao de ciguo de)changbing jian ciguo qian</orth>
+            <orth type="tradi">（用來把薊、起絨草等刺莖菊科害草连根拔除的）長柄鉗</orth>
+            <orth type="simp">（用來把薊、起絨草等刺莖菊科害草连根拔除的）长柄钳</orth>
+            <orth type="pinyin">(yonglai ba ji,qirongcao deng cijing juke haicao liangen bachu de)changbing qian</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -16526,22 +16591,22 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base748" sortKey="74800">
           <form xml:lang="fr">
-            <orth>récolte des épis [v. couper les épis]</orth>
+            <orth>r&amp;eacute;colte des &amp;eacute;pis [v. couper les &amp;eacute;pis]</orth>
           </form>
           <form xml:lang="eng">
             <orth>reaping (or cutting) of ears (or heads) [v. cut ears (or heads)]</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">穂首刈り / 穂刈り　 // 穂摘み *</orth>
-            <orth type="kana">ほくびがり / ほがり //　ほづみ *</orth>
-            <orth type="trans">ho-kubi-gari / ho-gari // ho-zumi *</orth>
+            <orth type="kanji">穂首刈り / 穂刈り　 // 穂摘み ( 「穂刈」は道具を使ってなされるに対し、 「穂摘み」は素手でなされる時にも用いられる)</orth>
+            <orth type="kana">ほくびがり / ほがり //　ほづみ&amp;nbsp;</orth>
+            <orth type="trans">ho-kubi-gari / ho-gari // ho-zumi&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">割穗，摘穗</orth>
             <orth type="simp">割穗，摘穗</orth>
             <orth type="pinyin">ge sui, zhai sui</orth>
           </form>
-          <note type="commentaires">* 「穂刈」は道具を使ってなされるに対し、 「穂摘み」は素手でなされる時にも用いられる。</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base749" sortKey="74900">
           <form xml:lang="fr">
@@ -16750,15 +16815,16 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>haystack, hayrick</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">&lt;span class="Style40"&gt;束積み&lt;br /&gt;
+            <orth type="kanji">&lt;span class="Style40"&gt;小さい藁鳰，小さい穀物等の鳰&lt;br /&gt;
 &lt;/span&gt;</orth>
-            <orth type="kana">&lt;span class="Style40"&gt;たばづみ&lt;/span&gt;</orth>
-            <orth type="trans">tabazumi</orth>
+            <orth type="kana">&lt;span class="Style40"&gt;ちいさいわらにお，ちいさいこくもつなどのにお&lt;br /&gt;
+&lt;/span&gt;</orth>
+            <orth type="trans">chiisai waranio, chiisai kokumotsu nado no nio</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">豎在田裏的穀捆、穀穗捆</orth>
-            <orth type="simp">竖在田里的穀捆、穀穗捆</orth>
-            <orth type="pinyin">shu zai tian li de gukun, gusui kun</orth>
+            <orth type="tradi">豎在田裏的穀捆、禾捆、秸捆</orth>
+            <orth type="simp">竖在田里的穀捆、禾捆、秸捆</orth>
+            <orth type="pinyin">shu zai tian li de gukun, hekun，jiekun</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -16788,9 +16854,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>lodge / lodged</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">[訳]　倒れ / 倒伏&amp;nbsp;</orth>
-            <orth type="kana">たおれ、とうふ</orth>
-            <orth type="trans">taore / toufu</orth>
+            <orth type="kanji">畑で倒れた穀物 / 倒伏&amp;nbsp;</orth>
+            <orth type="kana">畑でたおれた穀物、とうふ</orth>
+            <orth type="trans">hatake de taoreta kokumotsu / toufu</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">倒伏（在田里的穀物）</orth>
@@ -17018,7 +17084,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base778" sortKey="77800">
           <form xml:lang="fr">
-            <orth>couteau à moissonner</orth>
+            <orth>couteau &amp;agrave; moissonner</orth>
           </form>
           <form xml:lang="eng">
             <orth>reaping knife</orth>
@@ -17026,14 +17092,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
           <form xml:lang="ja">
             <orth type="kanji">穂摘用ナイフ &amp;nbsp; ([訳]爪鎌 ) *, 粟鑿 (Sud du Manchourie)</orth>
             <orth type="kana">ほづみようナイフ&amp;nbsp; (つめがま ) *&amp;nbsp;</orth>
-            <orth type="trans">hozumi-yô-naihu　(tsume-gama ) *&amp;nbsp;</orth>
+            <orth type="trans">hozumi-y&amp;ocirc;-naihu　(tsume-gama ) *&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">粟鋻，粟刀</orth>
             <orth type="simp">粟鉴，粟刀</orth>
             <orth type="pinyin">sujian，sudao</orth>
           </form>
-          <note type="commentaires">* &lt;em&gt;Tsume-gama &lt;/em&gt;est probablement une mauvaise terminologie, car le mot provoque une confusion. En tout cas, il n'est pas universellement employ&amp;eacute;.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base780" sortKey="78000">
           <form xml:lang="fr">
@@ -17151,16 +17217,16 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>heel</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">腰 /込＝小身 / 中子 *</orth>
-            <orth type="kana">こし / こみ /なかご&amp;nbsp; *</orth>
-            <orth type="trans">koshi / komi / nakago&amp;nbsp; *</orth>
+            <orth type="kanji">NULL</orth>
+            <orth type="kana">NULL</orth>
+            <orth type="trans">NULL</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">歐洲長鐮根部突出的部分，長鐮後跟</orth>
             <orth type="simp">欧洲长镰根部突出的部分，长镰后跟</orth>
             <orth type="pinyin">ouzhou changlian genbu tuchu de bufen, changlian hougen</orth>
           </form>
-          <note type="commentaires">* 未解</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base790" sortKey="79000">
           <form xml:lang="fr">
@@ -17197,7 +17263,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth type="simp">刀身、镰身后部的尖状延长部分，便于插入木柄中</orth>
             <orth type="pinyin">daoshen, lianshen houbu de jian zhuang yanchang bufen, bianyu charu mubing zhong</orth>
           </form>
-          <note type="commentaires">* Part of instrument unnamed in Japanese; Les Japonais méconnaissent cette partie de l&amp;rsquo;instrument, ainsi que le mot.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base792" sortKey="79200">
           <form xml:lang="fr">
@@ -17280,9 +17346,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>reaping hook,&amp;nbsp;baging hook</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">大鎌</orth>
-            <orth type="kana">おおがま</orth>
-            <orth type="trans">ou-gama</orth>
+            <orth type="kanji">円い刃の鎌</orth>
+            <orth type="kana">まるはのかま</orth>
+            <orth type="trans">marui ha no kama</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">一種大彎鐮</orth>
@@ -17299,14 +17365,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>hainault scythe</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">長柄小鎌</orth>
-            <orth type="kana">ながえこがま</orth>
-            <orth type="trans">nagae kogama</orth>
+            <orth type="kanji">曲がった柄の鎌と穂集めフック</orth>
+            <orth type="kana">まがったえのかまとほあつめふっく</orth>
+            <orth type="trans">magatta e no kama toho-atsume hukku</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">彎柄鐮</orth>
-            <orth type="simp">弯柄镰</orth>
-            <orth type="pinyin">wanbing lian</orth>
+            <orth type="tradi">（用来抛割的）和长柄拢钩一起使用的弯柄镰</orth>
+            <orth type="simp">（用来抛割的）和长柄拢钩一起使用的弯柄镰</orth>
+            <orth type="pinyin">（yonglai paoge de) he changbing longgou yiqi shiyong de wanbing lian</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -17318,16 +17384,16 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>scythe (two-handled)</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">大鎌 /&amp;nbsp; なぎ鎌 * /&amp;nbsp; 西洋大鎌 (YA) / サイズ</orth>
-            <orth type="kana">おおがま /&amp;nbsp; なぎがま * / せいようおおがま (YA) / サイズ</orth>
-            <orth type="trans">ô-gama / nagi-gama * / seiyô-ô-gama (YA) / saizu</orth>
+            <orth type="kanji">大鎌 /&amp;nbsp; なぎ鎌 * /&amp;nbsp; 西洋大鎌 &amp;nbsp;/ サイズ</orth>
+            <orth type="kana">おおがま /&amp;nbsp; なぎがま * / せいようおおがま / サイズ</orth>
+            <orth type="trans">&amp;ocirc;-gama / nagi-gama * / seiy&amp;ocirc;-&amp;ocirc;-gama / saizu</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">长柄大鐮刀</orth>
             <orth type="simp">长柄大镰刀</orth>
             <orth type="pinyin">changbing da liandao&amp;nbsp;</orth>
           </form>
-          <note type="commentaires">* Makoto SAWARA, Encyclopaedia Heibonsha, t. 3, p.614</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base804" sortKey="80400">
           <form xml:lang="fr">
@@ -17337,16 +17403,16 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>naked scythe</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">大鎌 / なぎ鎌 *</orth>
-            <orth type="kana">おおがま / なぎがま *</orth>
-            <orth type="trans">ô-gama / nagi-gama *</orth>
+            <orth type="kanji">大鎌 / なぎ鎌&amp;nbsp;</orth>
+            <orth type="kana">おおがま / なぎがま&amp;nbsp;</orth>
+            <orth type="trans">&amp;ocirc;-gama / nagi-gama&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">大鐮，大鐮刀</orth>
             <orth type="simp">大镰，大镰刀</orth>
             <orth type="pinyin">dalian，daliandao</orth>
           </form>
-          <note type="commentaires">* Makoto SAWARA, Encyclopaedia Heibonsha, t. 3, p.614.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base805" sortKey="80500">
           <form xml:lang="fr">
@@ -17430,9 +17496,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>swath</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">１、一列の刈り跡、２、一刈りの幅，３、帯状の面積</orth>
-            <orth type="kana">１、いちれつのかりあと，２、ひとかりのはば，３、おびじょうのめんせき</orth>
-            <orth type="trans">1. ichiretsu no kari-ato, 2. hitokari no haba, 3. obijou no menseki</orth>
+            <orth type="kanji">畑を刈り後の１、干し草の盛った列、２、その列の幅，３、そうした帯状の畑の面積</orth>
+            <orth type="kana">はたけをかりとったあとの１、ほしぐさのもったれつ，２、そのれつのはば，３、そうしたしょうたいのはたけのめんせき</orth>
+            <orth type="trans">hatake o kari-ato no 1. hoshigusa no motte retsu, 2. sono retsu no haba, 3. sou shita joutai no hatake no menseki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">1、（割下的谷物或草堆成的）條堆
@@ -17762,9 +17828,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>hay-making / hay-maker</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">刈草干し機</orth>
-            <orth type="kana">かりくさほしき</orth>
-            <orth type="trans">karikusa hoshiki</orth>
+            <orth type="kanji">畑での干し草をかき混ぜる機械</orth>
+            <orth type="kana">はたけでのほしぐさをかきまぜるきかい</orth>
+            <orth type="trans">hatake de hoshigusa o kakimazeru kikai</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">攤草機，翻草機</orth>
@@ -17873,9 +17939,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>harvester-bailer</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">苅って束にする機械</orth>
-            <orth type="kana">かってたばにするきかい</orth>
-            <orth type="trans">katte taba ni suru kikai</orth>
+            <orth type="kanji">苅った穀物を束に束ねる機械</orth>
+            <orth type="kana">かったこくもつをそくにたばねるきかい</orth>
+            <orth type="trans">katta kokumotsu o soku ni tabaneru kikai</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">打捆收割機</orth>
@@ -17892,14 +17958,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>harvester-binder / reaper and binder</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">苅って束にする機械</orth>
-            <orth type="kana">かってたばにするきかい</orth>
-            <orth type="trans">katte taba ni suru kikai</orth>
+            <orth type="kanji">苅った穀物を束にたばねる機械</orth>
+            <orth type="kana">かったこくもつをそくにたばねるきかい</orth>
+            <orth type="trans">katta kokumotsu o soku ni tabaneru kikai</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">割捆機</orth>
-            <orth type="simp">割捆机</orth>
-            <orth type="pinyin">gekunji</orth>
+            <orth type="tradi">收割打捆機</orth>
+            <orth type="simp">收割打捆机</orth>
+            <orth type="pinyin">shouge dakun ji</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -17965,9 +18031,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>sheaf-binding needle</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">束を作る刺し棒</orth>
-            <orth type="kana">たばをつくるさしぼう</orth>
-            <orth type="trans">taba o tsukuru sashibou</orth>
+            <orth type="kanji">束を作る木製留め釘</orth>
+            <orth type="kana">そくをつくるもくせいとめくぎ</orth>
+            <orth type="trans">soku o tsukuru mokusei tomekugi</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">打捆器</orth>
@@ -18129,9 +18195,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>period when foot of plant is bent over to promote multiple rooting, as for wheat</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">穀類植物の根元はNNNNNNされる時期</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">穀類植物の分蘖期間</orth>
+            <orth type="kana">こくるいしょくぶつのぶんぱくきかん</orth>
+            <orth type="trans">kokurui shokubutsu no bunpaku kikan</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">分蘖期</orth>
@@ -18167,8 +18233,8 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
           </form>
           <form xml:lang="ja">
             <orth type="kanji">穀束納屋，穀束場</orth>
-            <orth type="kana">こくたばのうや、こくたばば</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kana">こくそくなや、こくそくじょう</orth>
+            <orth type="trans">kokusoku naya, kokusokujou</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">麥垛，稻垛，草垛，堆放麥垛、稻垛、草垛的地方</orth>
@@ -18212,6 +18278,25 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth type="tradi">有齒刃</orth>
             <orth type="simp">有齿刃</orth>
             <orth type="pinyin">youchiren</orth>
+          </form>
+          <note type="commentaires">NULL</note>
+        </entry>
+        <entry xml:id="base2248" sortKey="0">
+          <form xml:lang="fr">
+            <orth>fauch&amp;eacute;e, coutel&amp;eacute;e</orth>
+          </form>
+          <form xml:lang="eng">
+            <orth>grass cut with each stroke</orth>
+          </form>
+          <form xml:lang="ja">
+            <orth type="kanji">鎌で一遍ずつに苅る量</orth>
+            <orth type="kana">かまでいっぺんずつにかるりょう</orth>
+            <orth type="trans">kama de ippen zutsu ni karu ryou</orth>
+          </form>
+          <form xml:lang="zh">
+            <orth type="tradi">&amp;nbsp;（用西式大镰或镰）一次挥镰动作割下的一捆或一把的禾谷量</orth>
+            <orth type="simp">（用西式大镰或镰）一次挥镰动作割下的一捆或一把禾谷量</orth>
+            <orth type="pinyin">&amp;nbsp;(yong xishi dalian huo xian) yi ci hui lian dongzuo ge xia de yi kun huo yi ba hegu liang</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18261,9 +18346,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>corn-picker</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">籾収穫機</orth>
-            <orth type="kana">もみしゅうかくき</orth>
-            <orth type="trans">momi shuukaku-ki</orth>
+            <orth type="kanji">トウモロコシ穂を摘む機</orth>
+            <orth type="kana">とうもろこしぼをつむき</orth>
+            <orth type="trans">toumorokoshi-ho o tsumi ki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">玉米收割機</orth>
@@ -18280,9 +18365,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>to rick hay, hay rick</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">束積む</orth>
-            <orth type="kana">たばつむ</orth>
-            <orth type="trans">taba tsumu</orth>
+            <orth type="kanji">干し草鳰（蜂の巣形）</orth>
+            <orth type="kana">ほしぐさにお（はちのすけい）</orth>
+            <orth type="trans">hoshigusa-nio (hachi no su kei)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">將干草堆成蜂窩狀的小草垛</orth>
@@ -18299,14 +18384,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>put in haystacks</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">刈り穂を稲叢に積み上げる</orth>
-            <orth type="kana">かりほをいなむらにつみあげる</orth>
-            <orth type="trans">kariho o inamura ni tsumi-ageru</orth>
+            <orth type="kanji">干し草、わら，苅った穀物などを鳰に積み上げる</orth>
+            <orth type="kana">ほしぐさ，わら，かったこくもつなどをにおにつみあげる</orth>
+            <orth type="trans">hoshigusa, wara, katta kokumotsu nado o nio ni tsumi-ageru</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">堆榖堆，堆草堆</orth>
-            <orth type="simp">堆谷堆，堆草堆</orth>
-            <orth type="pinyin">dui gudui, dui caodui</orth>
+            <orth type="tradi">堆草垛，堆秸秆垛</orth>
+            <orth type="simp">堆草垛，堆秸秆垛</orth>
+            <orth type="pinyin">dui caoduo, dui jiegan duo</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18337,9 +18422,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>handful of corn, wheat held by harvester to cut with sickle</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">手鎌で苅る場合，片手で持つ穀物の量</orth>
-            <orth type="kana">てがまでかるばあい，かたてでもつこくもつのりょう</orth>
-            <orth type="trans">tegama de karu baai, katate de motsu kokumotsu no ryou</orth>
+            <orth type="kanji">穀物など鎌で苅る時，一遍に切れる量</orth>
+            <orth type="kana">こくもつなどをてがまでかるとき，いっぺんにきれるりょう</orth>
+            <orth type="trans">kokumotsu nado tegama de karu toki, ippen ni kireru ryou</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">用西式大鐮收割小麥並捆成立捆</orth>
@@ -18350,20 +18435,20 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base3822" sortKey="0">
           <form xml:lang="fr">
-            <orth>crib </orth>
+            <orth>crib</orth>
           </form>
           <form xml:lang="eng">
             <orth>corncrib</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">穀物やトウモロコシをつり干す四方型柵</orth>
+            <orth type="kana">こくもつやとうもろこしをつりほすしほうけいさく</orth>
+            <orth type="trans">kokumotsu ya toumorokoshi o tsurihosu shihou-kei saku</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">曬榖棚，曬榖架，晾榖架，曬榖架</orth>
-            <orth type="simp">晒谷棚，晒谷架，晾谷架，晒谷架</orth>
-            <orth type="pinyin">shaigupeng, shaigu jia, liang gu jia, liang gu peng</orth>
+            <orth type="tradi">曬榖棚，曬榖架，晾榖架，曬榖架，晒玉米穗架</orth>
+            <orth type="simp">晒谷棚，晒谷架，晾谷架，晒谷架，晒玉米穗架</orth>
+            <orth type="pinyin">shaigupeng, shaigu jia, liang gu jia, liang gu peng, shai yumisui jia</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18375,9 +18460,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>hook to gather cereal stems to be cut with sickle</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">畑の穀枝を一握りに集める小フック,小鎌収穫の用具</orth>
-            <orth type="kana">はたけのこくるいをひとにぎりにあつめるこふっく，こがましゅうかくのようぐ</orth>
-            <orth type="trans">hatake no kokurui o hito nigiri ni atsumeru ko-hukku, kogama shuukaku no yougu</orth>
+            <orth type="kanji">鎌で苅る時に使う穂集めフック</orth>
+            <orth type="kana">かまでかるときにつかうほあつめふっく</orth>
+            <orth type="trans">kama de karu toki ni tsukau ho atsume hukku</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">（配合西式大鐮收割的、用來攏起成片榖桿的）長柄攏鉤</orth>
@@ -18394,14 +18479,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>thistle weeder, weed out thistles, thistle weeding</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">アザミの雑草、その農具</orth>
-            <orth type="kana">あざみのざっそう，そのどうぐ</orth>
-            <orth type="trans">azami no zassou, sono dougu</orth>
+            <orth type="kanji">薊を切る道具</orth>
+            <orth type="kana">あざみをきるどうぐ</orth>
+            <orth type="trans">azami o kiru dougu</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">（用來割掉薊等害草的刺果的）長柄割刀</orth>
-            <orth type="simp">（用来割掉蓟等害草的刺果的）长柄割刀</orth>
-            <orth type="pinyin">(yonglai ge diao ji deng haicao ciguo de)changbing gedao</orth>
+            <orth type="tradi">（用來割掉刺薊等害草的）長柄割刀</orth>
+            <orth type="simp">（用来割掉刺蓟等害草的）长柄割刀</orth>
+            <orth type="pinyin">(yonglai ge diao ciji deng haicao de)changbing gedao</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18413,14 +18498,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>rake up cereal grain stalks cut by scythe</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">長柄鎌で苅った穀物を稲叢に積む</orth>
-            <orth type="kana">ながえでかったこくもつをいなむらにつむ</orth>
-            <orth type="trans">nagae de katta kokumotsu o inamura ni tsumu</orth>
+            <orth type="kanji">長柄股鍬で苅った穀物を鳰に積み上げる</orth>
+            <orth type="kana">ながえまたぐわでかったこくもつをにつみあげる</orth>
+            <orth type="trans">nagae mataguwa de katta kokumotsu o nio ni tsumiageru</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">用兩齒耙攏撿散在田裏的谷穗</orth>
-            <orth type="simp">用两齿耙拢捡散在田里的谷穗</orth>
-            <orth type="pinyin">yong liangchiba longjian san zai tianli de gusui</orth>
+            <orth type="tradi">用两齿耙收拢田里收割的禾谷</orth>
+            <orth type="simp">用两齿耙收拢田里收割的禾谷</orth>
+            <orth type="pinyin">yong liangchiba shoulong sanli shouge de hegu</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18432,7 +18517,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>to stock, store (in barn)</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">穀物の入層</orth>
+            <orth type="kanji">穀物の入倉</orth>
             <orth type="kana">こくもつのにゅうそう</orth>
             <orth type="trans">kokumotsu no nyuusou</orth>
           </form>
@@ -18470,7 +18555,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>stir stored grain to air it and prevent fermentation</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">風を通すために入層した穀物をかき混ぜる</orth>
+            <orth type="kanji">風を通すために入倉した穀物をかき混ぜる</orth>
             <orth type="kana">かぜをとうすためににゅうそうしたこくもつをかきまぜる</orth>
             <orth type="trans">kaze o tousu tame ni nyuusou shita kokumotsu ni kakimazeru</orth>
           </form>
@@ -18527,9 +18612,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>fork</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">叉鋤</orth>
+            <orth type="kana">またすき</orth>
+            <orth type="trans">mata-suki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">（把收割的谷捆裝上車的）長柄兩齒或三齒叉</orth>
@@ -18546,9 +18631,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>gleaning, gleanings</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">拾い穂、穂拾い？</orth>
+            <orth type="kana">ひろいぼ，ほびろい</orth>
+            <orth type="trans">hiroibo, hobiroi</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">拾穗，拾撿散落在田地裏的穀穗</orth>
@@ -18565,9 +18650,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>lay in swaths, laying in swaths</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">束を鳰に立てる？</orth>
+            <orth type="kana">そくをにおにたてる</orth>
+            <orth type="trans">soku o nio ni tateru</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">把（收割的谷物）堆成條堆</orth>
@@ -18622,9 +18707,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>officer responsible for harvest to prevent marauding</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">刈り入れた穀物を見守る係</orth>
+            <orth type="kana">かりいれたこくもつをみまもるかかり</orth>
+            <orth type="trans">kariireta kokumotsu o mimaru kakari</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">（收獲期間）看守莊稼的人，看青的人</orth>
@@ -18641,9 +18726,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>unit of measurement</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">一定量，その容器</orth>
+            <orth type="kana">いっていりょう，そのりょうき</orth>
+            <orth type="trans">itteiryou, sono ryouki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">量穀的容器</orth>
@@ -18679,9 +18764,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>aerate, airing wheat to prevent fermentation</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">穀物を曝気する（腐らないように）</orth>
+            <orth type="kana">こくもつをばっきする（くさらないように）</orth>
+            <orth type="trans">kokumotsu o bakki suru (kusaranai you ni)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">用鏟翻晾谷物</orth>
@@ -18692,15 +18777,15 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base3953" sortKey="0">
           <form xml:lang="fr">
-            <orth>perlé</orth>
+            <orth>perl&amp;eacute;</orth>
           </form>
           <form xml:lang="eng">
             <orth>oats from which tegument has been removed</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">去皮された大麦粒</orth>
+            <orth type="kana">きょびされたおおむぎつぶ</orth>
+            <orth type="trans">kyobi sareta oomugi tsubu</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">去皮的大麥粒</orth>
@@ -18711,15 +18796,15 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
         </entry>
         <entry xml:id="base3959" sortKey="0">
           <form xml:lang="fr">
-            <orth>protège-lame</orth>
+            <orth>prot&amp;egrave;ge-lame</orth>
           </form>
           <form xml:lang="eng">
             <orth>residue recovered from barn to sow grazing meadows</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">鎌の刃のカバー（使用以外）</orth>
+            <orth type="kana">かまのはのかばあ（しよういがい）</orth>
+            <orth type="trans">kama no ha no kabaa (shiyou igai)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">鐮刃保護套</orth>
@@ -18736,9 +18821,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>strickle, level off top of unit of measurement recipient</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">斗掻，枡に盛った穀類を平にならす棒</orth>
+            <orth type="kana">とかき，ますにもったこくるいをたいらにならすぼう</orth>
+            <orth type="trans">tokaki, masu ni motta kokurui o taira ni narasu bou</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">（用來刮平高出量器谷物的）斗刮，刮尺，斗概</orth>
@@ -18752,7 +18837,7 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>releveur</orth>
           </form>
           <form xml:lang="eng">
-            <orth>NULL</orth>
+            <orth>device for raising lodged stems to harvest</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">NULL</orth>
@@ -18793,9 +18878,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>sickle harvester (person), harvesting with sickle</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">小鎌で苅るひと，こと</orth>
+            <orth type="kana">こがまでかるひと，こと</orth>
+            <orth type="trans">kogama de karu hito, koto</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">用鋸齒鐮收割</orth>
@@ -18812,14 +18897,14 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>sweat&amp;nbsp;; leave oats, etc., on field to dry or ripe</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">乾燥または熟成させるために麦などを畑で置いておく</orth>
+            <orth type="kana">かんそうまたはじゅくせいするためにむぎなどをはたけでおいておく</orth>
+            <orth type="trans">kansou matawa jukusei suru tameni mugi nado o hatake de oite oku</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">把莊稼留在田裏使谷粒完全成熟</orth>
             <orth type="simp">把庄稼留在田里使谷粒完全成熟</orth>
-            <orth type="pinyin">ba zhuangjia liu zai tianli shi guli wanquan chengshu </orth>
+            <orth type="pinyin">ba zhuangjia liu zai tianli shi guli wanquan chengshu</orth>
           </form>
           <note type="commentaires">NULL</note>
         </entry>
@@ -18831,9 +18916,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>green-cut, harvest wheat/corn before ripe and leave to dry in field</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">穀物を，畑で乾くように未熟で刈りる方法</orth>
+            <orth type="kana">こくもつを，はたけでかわくようにみじゅくでかりるほうほう</orth>
+            <orth type="trans">kokumotsu o, hatake de kawaku you ni mijuku de kariru houhou</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">收割未成熟的小麥並留在田裏晾曬</orth>
@@ -18850,9 +18935,9 @@ FR;mso-fareast-language:FR;mso-bidi-language:AR-SA"&gt;室素, カリウム、&l
             <orth>wheat/corn stack made of 8-18 sheaves leaned together into a cone with two sheaves on top</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL</orth>
-            <orth type="kana">NULL</orth>
-            <orth type="trans">NULL</orth>
+            <orth type="kanji">穀物の鳰の一種：八＿十八束からなる円錐形鳰に更に二束をかぶせたもの</orth>
+            <orth type="kana">こくもつのにおのいっしゅ：はちからじゅうはっそくからなるえんすいけいにおににそくをかぶせたもの</orth>
+            <orth type="trans">kokumotsu no nio no isshu: hachi kara juuhassoku kara naru ensuikei nio ni sarani nisoku o kabuseta mono</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">錐形小谷垛</orth>
@@ -18941,23 +19026,22 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base437" sortKey="43700">
           <form xml:lang="fr">
-            <orth>épi égrené</orth>
+            <orth>&amp;eacute;pi &amp;eacute;gren&amp;eacute;</orth>
           </form>
           <form xml:lang="eng">
             <orth>threshed ear, threshed head</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">みご　([例]　みご縄)*&amp;nbsp; /&amp;nbsp; 頴穂 ??</orth>
-            <orth type="kana">みご　([例]　みごなわ)*&amp;nbsp; /&amp;nbsp; えいほ ??</orth>
-            <orth type="trans">migo　([例]　migo-nawa)*&amp;nbsp; / ei-ho ??</orth>
+            <orth type="kanji">脱穀された頴穂，籾がとれた穂</orth>
+            <orth type="kana">だっこくされたえいほ，もみがとれたほ</orth>
+            <orth type="trans">dakkoku sareta eiho, momi ga toreta ho</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">去掉穀粒的空穗</orth>
             <orth type="simp">去掉谷粒的空穗</orth>
             <orth type="pinyin">qu diao guli de kong sui</orth>
           </form>
-          <note type="commentaires">みご縄　=　脱穀したのちに残る穂軸・枝梗等から作る縄　　
-&lt;em&gt;Migo-nawa&lt;/em&gt; désigne &amp;quot;corde fait avec des épis égrénés : rachis, racèmes, racémules&amp;quot;.&amp;nbsp;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base439" sortKey="43900">
           <form xml:lang="fr">
@@ -19102,7 +19186,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth type="simp">谷仓（也可以是脱粒的地方）</orth>
             <orth type="pinyin">gucang (ye keyi yong lai tuoli)</orth>
           </form>
-          <note type="commentaires">Grange comme lieu d'égrenage. La grange peut disposer ou non d'une aire spécifiquement aménagée pour servir d'aire de battage.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base452" sortKey="45200">
           <form xml:lang="fr">
@@ -19124,7 +19208,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base453" sortKey="45300">
           <form xml:lang="fr">
-            <orth>hangar (là où on met des outils et des semences, etc.)</orth>
+            <orth>hangar (l&amp;agrave; o&amp;ugrave; on met des outils et des semences, etc.)</orth>
           </form>
           <form xml:lang="eng">
             <orth>hangar</orth>
@@ -19132,14 +19216,14 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
           <form xml:lang="ja">
             <orth type="kanji">納屋</orth>
             <orth type="kana">なや</orth>
-            <orth type="trans">naya *</orth>
+            <orth type="trans">naya</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">(存放農具與種子的)儲藏室</orth>
             <orth type="simp">(存放农具与种子的)储藏室</orth>
             <orth type="pinyin">(cunfang nongju yu zhongzi de) chucanghsi</orth>
           </form>
-          <note type="commentaires">* (expliquer)</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base454" sortKey="44801">
           <form xml:lang="fr">
@@ -19197,10 +19281,10 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base458" sortKey="45800">
           <form xml:lang="fr">
-            <orth>friction/froissement des épis avec les pieds</orth>
+            <orth>friction/froissement des &amp;eacute;pis avec les pieds</orth>
           </form>
           <form xml:lang="eng">
-            <orth>rubbing ears with the feet*</orth>
+            <orth>rubbing ears with the feet; ERR. certains auteurs disent&amp;nbsp;: &amp;laquo;&amp;nbsp;beating&amp;nbsp;&amp;raquo; qu&amp;rsquo;il faut &amp;eacute;viter.&amp;nbsp;</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">[訳]　足の裏で穂を擦る</orth>
@@ -19212,11 +19296,11 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth type="simp">用脚搓穗脱粒</orth>
             <orth type="pinyin">yong jiao cuo sui tuoli</orth>
           </form>
-          <note type="commentaires">* [certains auteurs disent&amp;nbsp;: &amp;laquo;&amp;nbsp;beating&amp;nbsp;&amp;raquo; qu&amp;rsquo;il faut éviter]</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base459" sortKey="45900">
           <form xml:lang="fr">
-            <orth>foulage des épis avec les pieds (humains) *</orth>
+            <orth>foulage des &amp;eacute;pis avec les pieds (humains) *</orth>
           </form>
           <form xml:lang="eng">
             <orth>treading or trampling ears (by humans)</orth>
@@ -19231,7 +19315,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth type="simp">踩踏脱粒</orth>
             <orth type="pinyin">cai ta tuoli</orth>
           </form>
-          <note type="commentaires">* Ne pas le confondre avec &amp;laquo;&amp;nbsp;friction des épis avec les pieds humains&amp;nbsp;&amp;raquo;. Il existe deux différentes techniques pour l&amp;rsquo;emploi des pieds humains.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base460" sortKey="46000">
           <form xml:lang="fr">
@@ -19250,7 +19334,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth type="simp">手工脱粒，手工打谷</orth>
             <orth type="pinyin">shougong tuoli，shougong dagu</orth>
           </form>
-          <note type="commentaires">* égrenage en frappant des poignées de céréales sur un support fixe</note>
+          <note type="commentaires">* &amp;eacute;grenage en frappant des poign&amp;eacute;es de c&amp;eacute;r&amp;eacute;ales sur un support fixe</note>
         </entry>
         <entry xml:id="base461" sortKey="46100">
           <form xml:lang="fr">
@@ -19695,42 +19779,41 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base499" sortKey="49900">
           <form xml:lang="fr">
-            <orth>TRAD. érussoire / grand peigne fixe à érusser *  (tue-veuves / abatteur de veuves) **</orth>
+            <orth>TRAD. &amp;eacute;russoire / grand peigne fixe &amp;agrave; &amp;eacute;russer &amp;nbsp;(tue-veuves / abatteur de veuves)&amp;nbsp;</orth>
           </form>
           <form xml:lang="eng">
-            <orth>TRAD. fixed threshing comb* / hand rippler (widows killer) **</orth>
+            <orth>TRAD. fixed threshing comb / hand rippler (widows killer)&amp;nbsp;</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">@ 千歯扱き (千把扱き) [麦扱きと稲扱きの総称] (寡殺し / 後家倒し)**</orth>
-            <orth type="kana">せんばこき&amp;nbsp; (やもめごろし　/　ごけだおし) **</orth>
-            <orth type="trans">sen-ba-koki (yamome-goroshi / goke-daoshi) **</orth>
+            <orth type="kanji">@ 千歯扱き (千把扱き) [麦扱きと稲扱きの総称] (寡殺し / 後家倒し)</orth>
+            <orth type="kana">せんばこき&amp;nbsp; (やもめごろし　/　ごけだおし)&amp;nbsp;</orth>
+            <orth type="trans">sen-ba-koki (yamome-goroshi / goke-daoshi)&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
-            <orth type="tradi">帶齒打谷架</orth>
-            <orth type="simp">带齿打谷架</orth>
-            <orth type="pinyin">dai chi dagu jia</orth>
+            <orth type="tradi">帶長齒的打谷架</orth>
+            <orth type="simp">带长齿的打谷架</orth>
+            <orth type="pinyin">dai chang chi de dagu jia</orth>
           </form>
-          <note type="commentaires">* peigne et comb sont des termes&amp;nbsp;inappropriés à cause de l&amp;rsquo;existence de &amp;laquo;&amp;nbsp;vrai peigne d&amp;rsquo;érussage&amp;nbsp;&amp;raquo; (ine-kushi). D&amp;rsquo;où la nécessité de l&amp;rsquo;invention des mots, par exemple, &amp;laquo;&amp;nbsp;érussoire&amp;nbsp;&amp;raquo; et &amp;laquo;&amp;nbsp;rippler&amp;nbsp;&amp;raquo;, etc.
-** Ce ne sont pas les vraies dénominations, mais les surnoms. Japon, d'après Terajima RY&amp;Ouml;AN et Saikaku IHARA.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base503" sortKey="50300">
           <form xml:lang="fr">
-            <orth>TRAD. peigne d'érussage (pour le riz, le blé etc)</orth>
+            <orth>TRAD. peigne d'&amp;eacute;russage (pour le riz, le bl&amp;eacute; etc)</orth>
           </form>
           <form xml:lang="eng">
             <orth>TRAD. hand-held comb for stripping off the grains (of rice and other grains)&amp;nbsp;</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">@&amp;nbsp; 扱き櫛 / 稲櫛 *</orth>
-            <orth type="kana">こきくし / いねくし*</orth>
-            <orth type="trans">koki-kushi / ine-kushi *</orth>
+            <orth type="kanji">@&amp;nbsp; 扱き櫛 / 稲櫛&amp;nbsp;</orth>
+            <orth type="kana">こきくし / いねくし</orth>
+            <orth type="trans">koki-kushi / ine-kushi&amp;nbsp;</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">(稻谷、麥子等）打谷架的齒</orth>
             <orth type="simp">(稻谷、麦子等）打谷架的齿</orth>
             <orth type="pinyin">（daogu, maizi deng）dagu jia de chi</orth>
           </form>
-          <note type="commentaires">&lt;div&gt;* La prononciation 稲櫛 いなくし ina-kushi est authentique.&lt;/div&gt;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base506" sortKey="50600">
           <form xml:lang="fr">
@@ -19842,7 +19925,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base512" sortKey="51200">
           <form xml:lang="fr">
-            <orth>TRAD. érusseuse à pédale (NEOL.)</orth>
+            <orth>TRAD. &amp;eacute;russeuse &amp;agrave; p&amp;eacute;dale (NEOL.)</orth>
           </form>
           <form xml:lang="eng">
             <orth>TRAD. pedal&amp;nbsp;stripper / pedal rippler (NEOL.)</orth>
@@ -19857,7 +19940,7 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth type="simp">脚踏脱粒机，旋转脱粒机</orth>
             <orth type="pinyin">jiao ta tuoli ji, xuanzhuan tuoli ji</orth>
           </form>
-          <note type="commentaires">* not to be confused with &amp;quot;stripper formally used in harvesting in Asturia&amp;quot;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base513" sortKey="51300">
           <form xml:lang="fr">
@@ -19903,16 +19986,16 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
             <orth>chaff-cutter</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">[訳]　押し切り *&amp;nbsp;</orth>
-            <orth type="kana">おしきり</orth>
-            <orth type="trans">oshi-kiri</orth>
+            <orth type="kanji">切りわら機（牛馬飼料用）</orth>
+            <orth type="kana">きりわらき（ぎゅうばしりょうよう）</orth>
+            <orth type="trans">kiriwaraki (gyuuba shiryou you)</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">鍘刀，鍘草機</orth>
             <orth type="simp">铡刀, 铡草机</orth>
             <orth type="pinyin">zhadao, zhacaoji</orth>
           </form>
-          <note type="commentaires">* Est-il le même instrument ? (Yoshio Abé)</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base516" sortKey="51600">
           <form xml:lang="fr">
@@ -20132,42 +20215,41 @@ les 4 techniques d'égrenage connues en Europe sont: le chaubage, le dépiquage 
         </entry>
         <entry xml:id="base530" sortKey="53000">
           <form xml:lang="fr">
-            <orth>TRAD. grand crible incliné / van pour nettoyer le riz*</orth>
+            <orth>TRAD. grand crible inclin&amp;eacute; / van pour nettoyer le riz</orth>
           </form>
           <form xml:lang="eng">
             <orth>TRAD. inclined riddle, winnowing fan</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">千石簁 / 籾簁 (籾通)</orth>
-            <orth type="kana">せんごくどうし / もみどうし</orth>
-            <orth type="trans">sen-goku-dôshi ? / momi-dôshi</orth>
+            <orth type="kanji">千石簁 / 籾簁 (籾通)／万石簁，千把扱き</orth>
+            <orth type="kana">せんごくどうし / もみどうし／まんごくどうし，せんばこき</orth>
+            <orth type="trans">sengoku-d&amp;ocirc;shi / momi-d&amp;ocirc;shi / mangoku-doushi, senbakoku</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">大斜篩</orth>
             <orth type="simp">大斜筛</orth>
             <orth type="pinyin">da xieshai</orth>
           </form>
-          <note type="commentaires">* cf. LASTEYRIE DU SAILLANT
-Déplacer à l'avenir dans le chapitre &amp;quot;Traitement des grains&amp;quot;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base531" sortKey="53100">
           <form xml:lang="fr">
-            <orth>TRAD. grand crible incliné</orth>
+            <orth>TRAD. grand crible inclin&amp;eacute;</orth>
           </form>
           <form xml:lang="eng">
             <orth>TRAD. inclined riddle</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">万石簁</orth>
-            <orth type="kana">まんごくどうし</orth>
-            <orth type="trans">man-goku-dôshi</orth>
+            <orth type="kanji">千石簁 / 籾簁 (籾通)/ 万石簁，千把扱き</orth>
+            <orth type="kana">せんばそうし／もみｄうどうし／まんごくどうし，せんばこき</orth>
+            <orth type="trans">senba-doushi / momidoushi / mangoku-d&amp;ocirc;shi, senbakoki</orth>
           </form>
           <form xml:lang="zh">
             <orth type="tradi">大斜篩</orth>
             <orth type="simp">大斜筛</orth>
             <orth type="pinyin">da xieshai</orth>
           </form>
-          <note type="commentaires">Déplacer à l'avenir dans le chapitre &amp;quot;Traitement des grains&amp;quot;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base532" sortKey="52410">
           <form xml:lang="fr">
@@ -20322,8 +20404,8 @@ Déplacer à l'avenir dans le chapitre &amp;quot;Traitement des grains&amp;quot;
             <orth>flail couple</orth>
           </form>
           <form xml:lang="ja">
-            <orth type="kanji">NULL ja kanji</orth>
-            <orth type="kana">NULL ja kana</orth>
+            <orth type="kanji"></orth>
+            <orth type="kana"></orth>
             <orth type="trans">(tuolaji shang de)chegou guding zhuangzhi</orth>
           </form>
           <form xml:lang="zh">
@@ -20514,10 +20596,10 @@ Déplacer à l'avenir dans le chapitre &amp;quot;Traitement des grains&amp;quot;
         </entry>
         <entry xml:id="base981" sortKey="49910">
           <form xml:lang="fr">
-            <orth>TRAD. érussoire à blé (froment ou orge) *</orth>
+            <orth>TRAD. &amp;eacute;russoire &amp;agrave; bl&amp;eacute; (froment ou orge)</orth>
           </form>
           <form xml:lang="eng">
-            <orth>TRAD. wheat or barley threshing fixed comb / wheat or barley fixed rippler *</orth>
+            <orth>TRAD. wheat or barley threshing fixed comb / wheat or barley fixed rippler</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">@ 　麦扱き</orth>
@@ -20529,15 +20611,14 @@ Déplacer à l'avenir dans le chapitre &amp;quot;Traitement des grains&amp;quot;
             <orth type="simp">小麦（燕麦、大麦）脱粒架</orth>
             <orth type="pinyin">xiaomai (yanmai, damai) tuoli jia</orth>
           </form>
-          <note type="commentaires">* L'érussoire à blé ou à orge n'est pas le même outil que l'érussoire à riz.
-Barley or wheat rippling comb and rice rippling comb are not the same implement.&amp;nbsp;</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base982" sortKey="49920">
           <form xml:lang="fr">
-            <orth>TRAD. érussoire à riz *</orth>
+            <orth>TRAD. &amp;eacute;russoire &amp;agrave; riz&amp;nbsp;</orth>
           </form>
           <form xml:lang="eng">
-            <orth>TRAD. paddy rippler /&amp;nbsp;paddy threshing comb *</orth>
+            <orth>TRAD. paddy rippler /&amp;nbsp;paddy threshing comb&amp;nbsp;</orth>
           </form>
           <form xml:lang="ja">
             <orth type="kanji">@ &amp;nbsp; 稲扱き</orth>
@@ -20549,8 +20630,7 @@ Barley or wheat rippling comb and rice rippling comb are not the same implement.
             <orth type="simp">稻谷脱粒架</orth>
             <orth type="pinyin">daogu tuli jia</orth>
           </form>
-          <note type="commentaires">L'érussoire à riz n'est pas le même instrument que l'érissoire à blé ou à orge.
-Rice rippling combb and&amp;nbsp; wheat or barley rippling combe are not the same implement.</note>
+          <note type="commentaires">NULL</note>
         </entry>
         <entry xml:id="base983" sortKey="52421">
           <form xml:lang="fr">
@@ -23907,7 +23987,7 @@ Rice rippling combb and&amp;nbsp; wheat or barley rippling combe are not the sam
         </entry>
         <entry xml:id="base1249" sortKey="0">
           <form xml:lang="fr">
-            <orth>noix d'arec, arequier, ERR noix de bétel*</orth>
+            <orth>noix d'arec, arequier, ERR noix de b&amp;eacute;tel</orth>
           </form>
           <form xml:lang="eng">
             <orth>areca nut, areca palm</orth>
@@ -23922,8 +24002,7 @@ Rice rippling combb and&amp;nbsp; wheat or barley rippling combe are not the sam
             <orth type="simp">槟榔，槟榔树</orth>
             <orth type="pinyin">binlang，binlangshu</orth>
           </form>
-          <note type="commentaires">&lt;i&gt;Areca catechu&lt;/i&gt;
-*bétel est une préparation à base de feuille de bétel et de chaux avec de la noix d'arec (Petit Robert)</note>
+          <note type="commentaires">&lt;i&gt;Areca catechu&lt;/i&gt;</note>
         </entry>
         <entry xml:id="base1250" sortKey="0">
           <form xml:lang="fr">
@@ -51572,24 +51651,6 @@ Bourgeons naissant de la partie de leur tige qui pousse sous terre ; le turion d
             <orth type="pinyin">NULL</orth>
           </form>
           <note type="commentaires">NULL</note>
-        </entry>
-        <entry xml:id="base2248" sortKey="0">
-          <form xml:lang="fr">
-            <orth>fauchée, coutelée</orth>
-          </form>
-          <form xml:lang="eng">
-            <orth>grass cut with each stroke</orth>
-          </form>
-          <form xml:lang="ja">
-            <orth type="kanji">NULL ja kanji</orth>
-            <orth type="kana">NULL ja kana</orth>
-            <orth type="trans">NULL ja trans</orth>
-          </form>
-          <form xml:lang="zh">
-            <orth type="tradi">NULL zh tradi</orth>
-            <orth type="simp">NULL zh simp</orth>
-            <orth type="pinyin">NULL zh pinyin</orth>
-          </form>
         </entry>
         <entry xml:id="base2249" sortKey="0">
           <form xml:lang="fr">
